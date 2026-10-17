@@ -1,0 +1,10 @@
+--> Some Git Commands
+1) git remote: It shows the GitHub repository connected to your local project
+
+2) git show: Displays details of your most recent commit
+
+3) git switch main: Switches to the main branch
+
+4) git rm: Removes a tracked file from Git and the working folder
+
+5) git stash: Temporarily saves uncommitted changes so you can work on something else
